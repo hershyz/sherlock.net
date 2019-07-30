@@ -13,3 +13,8 @@
   <li><code>https://www.example.com/user/ - 2nd line is the the string of the URL before the username</code></li>
   <li><code>Followers - 3rd line is a string that the source of the page should contain, assuming that the user exists</code></li>
 </ul>
+<h4>Output</h4>
+<ul>
+  <li>If the user exists: <code>- Example [+] - https://www.example.com/user/(args[0]</code></li>
+  <li>If the user doesn't exist: <code>- Example [-] - User Not Found</code></li>
+</ul>
