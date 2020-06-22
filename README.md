@@ -1,5 +1,5 @@
 <h1>Sherlock.NET</h1>
-<h3>A .NET, extendable clone of <a href="https://github.com/sherlock-project/sherlock">Sherlock</a></h3>
+<h3>A .NET, extendable clone of <a href="https://github.com/sherlock-project/sherlock">Sherlock</a>.</h3>
 <h4>Running Sherlock.NET</h4>
 <ul>
   <li>Change working directory to Sherlock EXE: <code>cd C:\Example\bin\</code></li>
