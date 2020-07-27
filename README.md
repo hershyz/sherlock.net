@@ -1,4 +1,4 @@
-<h1>Sherlock.NET</h1>
+<img src="https://raw.githubusercontent.com/hershyz/sherlock.net/master/icon.png"/>
 <h3>A .NET, extendable clone of <a href="https://github.com/sherlock-project/sherlock">Sherlock</a>.</h3>
 <h4>Running Sherlock.NET</h4>
 <ul>
