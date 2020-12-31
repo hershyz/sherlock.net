@@ -15,6 +15,6 @@
 </ul>
 <h4>Output</h4>
 <ul>
-  <li>If the user exists: <code>- Example [+] - https://www.example.com/user/(args[0]</code></li>
+  <li>If the user exists: <code>- Example [+] - https://www.example.com/user/(args[0])</code></li>
   <li>If the user doesn't exist: <code>- Example [-] - User Not Found</code></li>
 </ul>
